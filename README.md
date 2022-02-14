@@ -1,5 +1,24 @@
 #  // Acute Care Nurse turned Software Developer //
 
+```
+let rob = {
+  name: "Robert Burdett",
+  occupation: "Registered Nurse",
+  skills: ["Nursing", "Music Production", "Snowboarding"]
+  }
+  
+function thinkfulBootcamp(student) {
+  student = {
+    ...student,
+    occupation: ["Software Developer"],
+    skills: [...student.skills, "Coding"]
+  }
+  return student
+}
+
+thinkfulBootcamp(rob)
+```
+
 <!--
 **rdburdett/rdburdett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
