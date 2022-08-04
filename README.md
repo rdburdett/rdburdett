@@ -8,12 +8,11 @@ let rob = {
   }
   
 function thinkfulBootcamp(student) {
-  student = {
+  return {
     ...student,
     occupation: "Software Developer",
     skills: [...student.skills, "Coding"]
   }
-  return student
 }
 
 thinkfulBootcamp(rob)
@@ -41,11 +40,6 @@ Here are some ideas to get you started:
          alt="css3" 
          width="40" 
          height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" 
-         alt="django" 
-         width="40" 
-         height="40"/> </a>  -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
          alt="docker" 
@@ -66,11 +60,11 @@ Here are some ideas to get you started:
          alt="git" 
          width="40" 
          height="40"/> </a> 
-<!--   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" 
          alt="heroku" 
          width="40" 
-         height="40"/> </a>  -->
+         height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
          alt="html5" 
@@ -111,11 +105,11 @@ Here are some ideas to get you started:
          alt="photoshop" 
          width="40" 
          height="40"/> </a> 
-<!--   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
          alt="postgresql" 
          width="40" 
-         height="40"/> </a>  -->
+         height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
          alt="postman" 
