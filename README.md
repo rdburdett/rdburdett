@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdburdett&show_icons=true&theme=tokyonight)](https://github.com/rdburdett/github-readme-stats)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
